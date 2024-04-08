@@ -1,4 +1,4 @@
-# Privacy-Preserving AI on Solana powered by FHE (Homomorphic Encryption) & health IOT & DePin
+# Privacy-Preserving AI on Solana powered by FHE (Homomorphic Encryption, ZAMA) & health DePIN IOT device
 
 Privacy-preserving AI & FHE represents a trillion dollar market spanning sectors such as healthcare, finance, commerce, gaming, real-world applications, and decentralized private information networks, among others. The effectiveness of current artificial intelligence technologies, including large language models and generative AI, is impeded by the underutilization of private data due to privacy concerns. We have been at the forefront of integrating Solana blockchain technology with Fully Homomorphic Encryption (FHE) to establish a marketplace for FHE-based AI. This innovation facilitates the deployment of privacy-preserving artificial intelligence within a trusted execution environment, simultaneously rewarding users with token-based incentives.
 
