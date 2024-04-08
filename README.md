@@ -5,7 +5,13 @@ Privacy-preserving AI & FHE represents a trillion dollar market spanning sectors
 ![image](https://github.com/AI-Tech-Foundation-1/solana-payment-contract/assets/165755068/652aa081-182d-4440-96b0-4f58131ad8dd)
 
 For Solana Hackathon, we have integrated Zama, which developed state-of-the-art fully homomorphic encryption (FHE) technologies. We leverage framework to effortlessly craft applications with private designs utilizing homomorphic encryption. These applications, which include functionalities such as image filtering and sentiment analysis, allow users to engage without compromising data privacy.
+
+
 We have developed a web3 AI application platform underpinned by the Solana blockchain, Pyth network, designed to integrate with health monitoring devices, such as a hair health detector, thereby facilitating easy and convenient access to FHE AI applications for a broader user base. Each instance of usage by the users is rewarded with points, which are accrued according to the total usage, leading to different levels of points. These points can later be utilized as vouchers for airdrops to obtain platform tokens, in addition to earning dividends from the treasury, thus offering users an 'AI to earn' experience.
+
+<img width="1380" alt="截屏2024-04-08 10 50 20" src="https://github.com/AI-Tech-Foundation-1/solana-FHE-services-payment-contract/assets/165755068/cdccebbf-3eb5-4992-87d8-05556460b09d">
+
+
 
 The Solana blockchain is particularly suited for the described use case involving privacy-preserving artificial intelligence (AI) applications, including those based on Fully Homomorphic Encryption (FHE), for several reasons. Its distinct features offer a robust platform for developing and deploying secure, efficient, and scalable AI solutions that require a high degree of privacy and data protection. Here's why Solana stands out:
 High Throughput and Scalability: Solana can process tens of thousands of transactions per second (TPS), significantly higher than many other blockchains. This high throughput is crucial for AI applications that require real-time data processing and instant feedback, enabling them to function efficiently at scale.
